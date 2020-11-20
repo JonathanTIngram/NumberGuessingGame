@@ -1,6 +1,5 @@
 //Jonathan Ingram
-//Lab 6 - Number guessing game
-//CSE-110-114
+//Number guessing game
 //10/11/2018
 
 
